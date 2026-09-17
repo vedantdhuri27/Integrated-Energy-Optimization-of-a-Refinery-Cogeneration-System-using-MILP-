@@ -1,4 +1,4 @@
-# Integrated-Energy-Optimization-of-a-Refinery-Cogeneration-System-using-MILP-
+# Integrated-Energy-Optimization-of-a-Refinery-Cogeneration-System-using-MILP
 # Refinery Cogeneration Dispatch Optimizer (MILP)
 
 A Mixed-Integer Linear Programming (MILP) model that optimizes the hourly dispatch of a refinery steam/power cogeneration system — boiler unit-commitment, turbine-vs-letdown steam routing, byproduct fuel-gas substitution, and battery scheduling — under time-varying electricity and fuel prices.
